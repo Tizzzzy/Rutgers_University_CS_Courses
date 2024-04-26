@@ -1,4 +1,4 @@
-# CS211 Rutgers -- Year 2022
+# CS211 Rutgers -- Year 2022 Spring
 
 Instructor: David Menendez
 
